@@ -5,7 +5,7 @@
 BMI Calculaor: is a program that takes in: gender, tall, weight, age and the output is how healthy user are in BMI according to the inputs.
 
 ## Dark mode:
-<img src="README assets/dark.png" width="500"></img>
+<img src="README assets/dark.png" width="800"></img>
 
 ## Light mode:
-<img src="README assets/light.png" width="500"></img>
+<img src="README assets/light.png" width="800"></img>
